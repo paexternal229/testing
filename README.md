@@ -1,4 +1,4 @@
-spotify-backup
+Spotify-backup
 ==============
 
 A Python script that exports all of your Spotify playlists, useful for paranoid Spotify users like me, afraid that one day Spotify will go under and take all of our playlists with it!
